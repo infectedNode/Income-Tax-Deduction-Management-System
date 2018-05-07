@@ -352,6 +352,7 @@ void main()
    }while(ch!=6);
 }
 /*
+SAMPLE OUTPUT
 Main Menu
 1. Register Employee Details
 2. Show Details of Salary paid and Tax Deducted for an Employee
