@@ -144,7 +144,7 @@ class Employee
 
 
    void disp()
-      {/* cout<<"Name: "<<name<<setw(50)<<"Emp. no.: "<<empno<<endl<<endl;
+      { cout<<"Name: "<<name<<setw(50)<<"Emp. no.: "<<empno<<endl<<endl;
 	cout<<"Details of salary paid and any"<<setw(39)<<"INR"<<endl;
 	cout<<"other income and tax deducted\n";
 
@@ -168,7 +168,7 @@ class Employee
 	cout<<"   Interest recieved"<<setw(51)<<gaintax<<endl;
 
 	cout<<endl<<"5. Balance(3+4)"<<setw(56)<<taxg2<<endl;
-     */
+    
 	cout<<endl<<"6. Deductions:\n";
 	cout<<"   (a) Employee Provident Fund"<<setw(41)<<epf<<endl;
 	cout<<"   (b) Public Provident Fund"<<setw(43)<<ppf<<endl;
